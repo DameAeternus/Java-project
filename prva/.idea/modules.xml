@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/prva.iml" filepath="$PROJECT_DIR$/prva.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vtora/vtora.iml" filepath="$PROJECT_DIR$/vtora/vtora.iml" />
+    </modules>
+  </component>
+</project>
